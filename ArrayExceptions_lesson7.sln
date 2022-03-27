@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArrayExceptions_lesson7", "ArrayExceptions_lesson7.vcxproj", "{898C9010-68CE-4711-92CC-88BD9B2FD151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{898C9010-68CE-4711-92CC-88BD9B2FD151}.Debug|x64.ActiveCfg = Debug|x64
+		{898C9010-68CE-4711-92CC-88BD9B2FD151}.Debug|x64.Build.0 = Debug|x64
+		{898C9010-68CE-4711-92CC-88BD9B2FD151}.Debug|x86.ActiveCfg = Debug|Win32
+		{898C9010-68CE-4711-92CC-88BD9B2FD151}.Debug|x86.Build.0 = Debug|Win32
+		{898C9010-68CE-4711-92CC-88BD9B2FD151}.Release|x64.ActiveCfg = Release|x64
+		{898C9010-68CE-4711-92CC-88BD9B2FD151}.Release|x64.Build.0 = Release|x64
+		{898C9010-68CE-4711-92CC-88BD9B2FD151}.Release|x86.ActiveCfg = Release|Win32
+		{898C9010-68CE-4711-92CC-88BD9B2FD151}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5747FD26-044F-4DA3-B20B-E5028F39EA91}
+	EndGlobalSection
+EndGlobal
